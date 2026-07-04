@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # 🛰️ DisasterAI — Multimodal Disaster Response System
@@ -160,3 +161,7 @@ Built as a portfolio prototype to explore multimodal AI system design — specif
 ## License
 
 MIT License — free to use, modify, and build on.
+=======
+# Multimodal-disaster-response-ai
+An AI-Powered multimodal disaster response system that analyzes images, text, audio, and sensor data to assess disaster severity, prioritize emergencies, and support real-time rescue decision-making.
+>>>>>>> da6becf070588d460eb0cd13b0fd1c50a4231f80
